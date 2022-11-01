@@ -8,7 +8,11 @@ The project's goal was to create a restful API that connects to a mySQL database
 
 > Back-end: TypeScript, Node.js, Docker, Express, MySQL, Sequelize, JWT, bcrypt and Mocha / Chai. TDD was used as a development tool for the API. | Since the backend was develloped by me, you can find everything at the SRC folder. 
 
-# Final result: 
+# Final result:
+
+> First, we logg in: The validation is made by using jwt and bcrypt to encript the password when sending to the database.
+> We can then search for matches, teams, update a match, create a match, and so on.
+
 <div>
    <img align="center" alt="capa" src="https://user-images.githubusercontent.com/95686401/199350760-ee1ae808-06e7-42d0-9efd-64ca8a2a663a.gif" />
 </div>
