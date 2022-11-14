@@ -56,5 +56,13 @@ The project's goal was to create a restful API that connects to a mySQL database
 29 - Develop the /leaderboard/home endpoint so that it is possible to filter the rankings of the teams when sending in the frontend ranking screen with the initial data from the database | :heavy_check_mark:
 30 - Develop the /leaderboard/home endpoint so that it is possible to filter the rankings of the teams when they are home in the frontend ranking screen and when entering the match Corinthians 2 X 1 Internacional the table will be updated | :heavy_check_mark:
 
+# 
+
+
+<div>
+   <img align="center" alt="capa" src="https://user-images.githubusercontent.com/95686401/201725174-cbebb21b-7951-4231-a898-ce52503c459e.png" />
+</div>
+
+
 
 
