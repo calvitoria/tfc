@@ -46,7 +46,7 @@ The project's goal was to create a restful API that connects to a mySQL database
 19 - Develop the /matches endpoint so that the data appears correctly on the matches screen in the frontend | :heavy_check_mark:
 20 - Develop the /matches endpoint so that it is possible to filter the matches in progress in the frontend matches screen | :heavy_check_mark:
 21 - Develop the /matches endpoint so that it is possible to filter the finished matches in the frontend matches screen | :heavy_check_mark:
-22 - Develop tests that cover at least 80 percent of the backend files in /src with a minimum of 100 lines covered | :heavy_multiplication_x:
+22 - Develop tests that cover at least 80 percent of the backend files in /src with a minimum of 100 lines covered | :heavy_check_mark:
 23 - Develop the /matches endpoint so that you can save a match with the inProgress status as true in the database | :heavy_check_mark:
 24 - Develop the `/matches/:id/finish` endpoint so that you can change the inProgress status of a match to false in the database | :heavy_check_mark:
 25 - Develop the /matches endpoint so that it is not possible to enter a match with equal teams | :heavy_check_mark:
